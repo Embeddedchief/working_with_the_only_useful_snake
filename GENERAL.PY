@@ -1,14 +1,4 @@
-# ============================================================
-# PYTHON PRACTICAL EXAM PREP: QUESTIONS 11 TO 44 WITH ANSWERS
-# ============================================================
-# Functions (Q11-Q31): take parameters and RETURN a value.
-# Programs (Q32-Q44): read command-line arguments and PRINT.
-#   Each program is written as a function that takes `args`.
-#   In the exam, as its own file, run it like this:
-#       import sys
-#       add_prime_sum(sys.argv[1:])
-#   and on the terminal:  python file.py 5
-# ============================================================
+
 
 import sys
 
